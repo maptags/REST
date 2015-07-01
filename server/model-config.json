@@ -1,0 +1,157 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ]
+  },
+  "User": {
+    "dataSource": "db"
+  },
+  "AccessToken": {
+    "dataSource": "db",
+    "public": false
+  },
+  "ACL": {
+    "dataSource": "db",
+    "public": false
+  },
+  "RoleMapping": {
+    "dataSource": "db",
+    "public": false
+  },
+  "Role": {
+    "dataSource": "db",
+    "public": false
+  },
+  "Activity": {
+    "dataSource": null,
+    "public": true
+  },
+  "Areacodes": {
+    "dataSource": null,
+    "public": true
+  },
+  "Building": {
+    "dataSource": null,
+    "public": true
+  },
+  "Buildingcodes": {
+    "dataSource": null,
+    "public": true
+  },
+  "Confirm": {
+    "dataSource": null,
+    "public": true
+  },
+  "Contact": {
+    "dataSource": null,
+    "public": true
+  },
+  "Contacts": {
+    "dataSource": null,
+    "public": true
+  },
+  "Contactus": {
+    "dataSource": null,
+    "public": true
+  },
+  "CreditSource": {
+    "dataSource": null,
+    "public": true
+  },
+  "CustomTrack": {
+    "dataSource": null,
+    "public": true
+  },
+  "Googlecontacts": {
+    "dataSource": null,
+    "public": true
+  },
+  "Inactiveuser": {
+    "dataSource": null,
+    "public": true
+  },
+  "Locations": {
+    "dataSource": null,
+    "public": true
+  },
+  "Logs": {
+    "dataSource": null,
+    "public": true
+  },
+  "Maptagrequests": {
+    "dataSource": null,
+    "public": true
+  },
+  "Maptagtransfer": {
+    "dataSource": null,
+    "public": true
+  },
+  "Newbuildingcodes": {
+    "dataSource": null,
+    "public": true
+  },
+  "ResetPassword": {
+    "dataSource": null,
+    "public": true
+  },
+  "SavedMaptags": {
+    "dataSource": null,
+    "public": true
+  },
+  "SearchTeams": {
+    "dataSource": null,
+    "public": true
+  },
+  "SkippedBuilds": {
+    "dataSource": null,
+    "public": true
+  },
+  "TestMysql": {
+    "dataSource": null,
+    "public": true
+  },
+  "TrackCodes": {
+    "dataSource": null,
+    "public": true
+  },
+  "Trackme": {
+    "dataSource": null,
+    "public": true
+  },
+  "Unsubscribe": {
+    "dataSource": null,
+    "public": true
+  },
+  "UserAuth": {
+    "dataSource": null,
+    "public": true
+  },
+  "UserConnections": {
+    "dataSource": null,
+    "public": true
+  },
+  "UserCredits": {
+    "dataSource": null,
+    "public": true
+  },
+  "UserLocation": {
+    "dataSource": null,
+    "public": true
+  },
+  "Users": {
+    "dataSource": null,
+    "public": true
+  },
+  "Visited": {
+    "dataSource": null,
+    "public": true
+  },
+  "Zipcodes": {
+    "dataSource": null,
+    "public": true
+  }
+}

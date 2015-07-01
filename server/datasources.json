@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "maptag-mongo": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "test",
+    "name": "maptag-mongo",
+    "connector": "mongodb"
+  }
+}
