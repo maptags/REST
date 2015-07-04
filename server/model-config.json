@@ -27,131 +27,131 @@
     "public": false
   },
   "Activity": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Areacodes": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Building": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Buildingcodes": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Confirm": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Contact": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Contacts": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Contactus": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "CreditSource": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "CustomTrack": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Googlecontacts": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Inactiveuser": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Locations": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Logs": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Maptagrequests": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Maptagtransfer": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Newbuildingcodes": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "ResetPassword": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "SavedMaptags": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "SearchTeams": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "SkippedBuilds": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "TestMysql": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "TrackCodes": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Trackme": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Unsubscribe": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "UserAuth": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "UserConnections": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "UserCredits": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "UserLocation": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Users": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Visited": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   },
   "Zipcodes": {
-    "dataSource": null,
+    "dataSource": "maptag-mongo",
     "public": true
   }
 }
